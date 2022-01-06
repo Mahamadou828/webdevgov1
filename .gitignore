@@ -3,3 +3,7 @@
 #Don't include the binary
 *.exe
 *.test
+
+#Ignore fresh build 
+/tmp
+runner.conf
