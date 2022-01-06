@@ -1,3 +1,5 @@
 .vscode 
-*.exeS
+
+#Don't include the binary
+*.exe
 *.test
